@@ -1,0 +1,4 @@
+baseURL = 'https://say.unco.re/'
+languageCode = 'en-us'
+title = 'say.unco.re'
+theme = 'github.com/setsevireon/photophobia'
