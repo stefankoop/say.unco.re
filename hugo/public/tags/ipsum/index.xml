@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ipsum on say.unco.re</title>
+    <link>http://localhost:1313/tags/ipsum/</link>
+    <description>Recent content in Ipsum on say.unco.re</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jul 2021 17:35:31 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ipsum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Place Holder Text Three</title>
+      <link>http://localhost:1313/posts/placeholder_3/</link>
+      <pubDate>Sat, 24 Jul 2021 17:35:31 -0300</pubDate>
+      <guid>http://localhost:1313/posts/placeholder_3/</guid>
+      <description>&lt;p&gt;Fusce facilisis, ligula non rutrum dignissim, purus velit mattis orci, vel facilisis turpis lorem scelerisque purus. Fusce mattis erat in odio sagittis, non vehicula quam pharetra. Nullam dapibus luctus pharetra. In feugiat justo non odio pulvinar tempor. Suspendisse tristique ligula ac leo dictum, at porttitor sapien tempus. Quisque egestas luctus enim, vitae dapibus urna porta vel. Mauris consectetur augue et finibus sagittis. Integer pharetra ultrices augue, ut pulvinar arcu iaculis faucibus. Curabitur quis vestibulum nisi. Quisque vel velit eu lorem tristique consequat. Donec vehicula finibus sapien eu malesuada. Pellentesque sodales lorem lorem, bibendum commodo nibh rhoncus non. Suspendisse egestas tellus non ipsum euismod, ut luctus ex vehicula. Vestibulum tempus ut metus ut scelerisque. Nunc id mattis velit, vitae tempus odio. Vestibulum posuere sapien mi, rutrum interdum tellus aliquet at.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Place Holder Text Two</title>
+      <link>http://localhost:1313/posts/placeholder_2/</link>
+      <pubDate>Sat, 24 Jul 2021 17:35:31 -0300</pubDate>
+      <guid>http://localhost:1313/posts/placeholder_2/</guid>
+      <description>&lt;p&gt;Duis fermentum, nulla non lobortis feugiat, tortor erat molestie libero, vel auctor est metus in nibh. Suspendisse ornare in metus in interdum. Cras porta ligula eu tempus facilisis. Curabitur tincidunt egestas vehicula. Nulla feugiat porttitor tincidunt. Curabitur maximus tortor ut lorem ullamcorper condimentum. Phasellus vel sapien iaculis, tincidunt lorem non, convallis ex. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris volutpat nulla ut enim viverra gravida. Etiam rutrum sed libero a ultricies. Donec euismod urna lectus, id posuere eros facilisis at. Phasellus id feugiat elit.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
