@@ -21,3 +21,7 @@ filename = 'sitemap.xml'
 
 [markup.highlight]
 style = 'nord'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
