@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on SAY:UNCO:RE</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on SAY:UNCO:RE</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Use at your liking</copyright>
+    <lastBuildDate>Wed, 03 Apr 2019 22:19:01 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oneliner</title>
+      <link>http://localhost:1313/tags/oneliner/</link>
+      <pubDate>Wed, 03 Apr 2019 22:19:01 +0200</pubDate>
+      <guid>http://localhost:1313/tags/oneliner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>http://localhost:1313/tags/security/</link>
+      <pubDate>Wed, 03 Apr 2019 22:19:01 +0200</pubDate>
+      <guid>http://localhost:1313/tags/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shell</title>
+      <link>http://localhost:1313/tags/shell/</link>
+      <pubDate>Wed, 03 Apr 2019 22:19:01 +0200</pubDate>
+      <guid>http://localhost:1313/tags/shell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ssl</title>
+      <link>http://localhost:1313/tags/ssl/</link>
+      <pubDate>Wed, 03 Apr 2019 22:19:01 +0200</pubDate>
+      <guid>http://localhost:1313/tags/ssl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iptables</title>
+      <link>http://localhost:1313/tags/iptables/</link>
+      <pubDate>Fri, 29 Jul 2016 12:23:19 +0200</pubDate>
+      <guid>http://localhost:1313/tags/iptables/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/tags/linux/</link>
+      <pubDate>Fri, 29 Jul 2016 12:23:19 +0200</pubDate>
+      <guid>http://localhost:1313/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network</title>
+      <link>http://localhost:1313/tags/network/</link>
+      <pubDate>Mon, 26 Oct 2015 18:52:19 +0200</pubDate>
+      <guid>http://localhost:1313/tags/network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wget</title>
+      <link>http://localhost:1313/tags/wget/</link>
+      <pubDate>Mon, 26 Oct 2015 18:52:19 +0200</pubDate>
+      <guid>http://localhost:1313/tags/wget/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

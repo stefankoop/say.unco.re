@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category A on SAY:UNCO:RE</title>
+    <link>http://localhost:1313/categories/category-a/</link>
+    <description>Recent content in Category A on SAY:UNCO:RE</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Use at your liking</copyright>
+    <lastBuildDate>Mon, 26 Oct 2015 18:52:19 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/category-a/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get Your Public IP Address From a Shell</title>
+      <link>http://localhost:1313/posts/get_public_ip_from_shell/</link>
+      <pubDate>Mon, 26 Oct 2015 18:52:19 +0200</pubDate>
+      <guid>http://localhost:1313/posts/get_public_ip_from_shell/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# using wget&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;wget https://icanhazip.com -q -O -&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;wget https://checkip.amazonaws.com -q -O -&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# using curl&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;curl checkip.amazonaws.com&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;curl icanhazip.com&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
